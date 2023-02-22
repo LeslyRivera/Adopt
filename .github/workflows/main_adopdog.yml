@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'AdopDog'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACE823EA2AB84FDDA81C879135D604BC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA2C1708548F4BEBB45B70AF540C1356 }}
           package: .
