@@ -1,2 +1,2 @@
 # AdopDog
-html,css,php,js
+html,css,js
